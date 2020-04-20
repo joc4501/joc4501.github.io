@@ -19,11 +19,11 @@ body {
 }
 .display-4 {
   font-family: '911Fonts.com_CenturyGothicRegular__-_911fonts.com_fonts_mhpY-1';
-  font-size: 0.6rem;
+  font-size: 0.8rem;
   font-display: swap;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 0.96rem;
+  font-size: 1.28rem;
 }
 .display-5 {
   font-family: '911Fonts.com_CenturyGothicRegular__-_911fonts.com_fonts_mhpY-1';
@@ -58,9 +58,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.48rem;
-    font-size: calc( 0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.2rem;
@@ -1583,6 +1583,9 @@ section.lazy-placeholder:after {
   .cid-rWDTBpdU2Q .image-block {
     width: 100% !important;
   }
+}
+.cid-rWDTBpdU2Q .mbr-figure-caption div {
+  text-align: center;
 }
 .cid-rWE8z9Y02r {
   background: #ffffff;
