@@ -54,7 +54,7 @@
         "file": "@PROJECT_PATH@/fonts/911Fonts.com_CenturyGothicRegular__-_911fonts.com_fonts_mhpY-1/font.ttf"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/logo-2020-1.ico",
+    "favicon": "@PROJECT_PATH@/assets/images/g-010-32x32.png",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
