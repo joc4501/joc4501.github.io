@@ -640,6 +640,170 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rWXrp2Ms5U {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rWXrp2Ms5U .mbr-section-subtitle,
+.cid-rWXrp2Ms5U .mbr-text {
+  color: #767676;
+}
+.cid-rWXrp2Ms5U .card {
+  display: -webkit-flex;
+  position: relative;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rWXrp2Ms5U .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rWXrp2Ms5U .card-wrapper .card-img {
+  display: -webkit-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  -webkit-flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+}
+.cid-rWXrp2Ms5U .card-wrapper .card-img .mbr-overlay {
+  background-color: #ffffff;
+  display: none;
+  transition: opacity .3s;
+}
+.cid-rWXrp2Ms5U .card-wrapper .card-img .mbr-section-btn {
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  left: 0;
+  top: 50%;
+  height: auto;
+  transform: translateY(-50%);
+}
+.cid-rWXrp2Ms5U .card-wrapper .card-img img {
+  width: 100%;
+}
+.cid-rWXrp2Ms5U .card-wrapper .card-box {
+  background-color: #ffffff;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-rWXrp2Ms5U .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-rWXrp2Ms5U .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-rWXrp2Ms5U .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.cid-rWXrp2Ms5U .card-img .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-rWXrp2Ms5U .card-img .mbr-section-btn {
+  opacity: 0;
+}
+.cid-rWXrp2Ms5U .card-img:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-rWXrp2Ms5U .card-img:hover .mbr-section-btn {
+  opacity: 1;
+}
+.cid-rWXuyUMuJF {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rWXuyUMuJF .mbr-section-subtitle,
+.cid-rWXuyUMuJF .mbr-text {
+  color: #767676;
+}
+.cid-rWXuyUMuJF .card {
+  display: -webkit-flex;
+  position: relative;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rWXuyUMuJF .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rWXuyUMuJF .card-wrapper .card-img {
+  display: -webkit-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  -webkit-flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+}
+.cid-rWXuyUMuJF .card-wrapper .card-img .mbr-overlay {
+  background-color: #ffffff;
+  display: none;
+  transition: opacity .3s;
+}
+.cid-rWXuyUMuJF .card-wrapper .card-img .mbr-section-btn {
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  left: 0;
+  top: 50%;
+  height: auto;
+  transform: translateY(-50%);
+}
+.cid-rWXuyUMuJF .card-wrapper .card-img img {
+  width: 100%;
+}
+.cid-rWXuyUMuJF .card-wrapper .card-box {
+  background-color: #ffffff;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-rWXuyUMuJF .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-rWXuyUMuJF .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-rWXuyUMuJF .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.cid-rWXuyUMuJF .card-img .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-rWXuyUMuJF .card-img .mbr-section-btn {
+  opacity: 0;
+}
+.cid-rWXuyUMuJF .card-img:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-rWXuyUMuJF .card-img:hover .mbr-section-btn {
+  opacity: 1;
+}
 .cid-rWPZ05P1D6 {
   background-image: url("../../../assets/images/018-escalera-1931x1421.jpeg");
 }
