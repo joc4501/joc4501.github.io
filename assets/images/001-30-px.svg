@@ -13,11 +13,27 @@
  inkscape:version="1.0 (4035a4f, 2020-05-01)"
  id="svg2991"
  version="1.1"
- viewBox="0 0 8.004703 1.3776279"
- height="5.2067828"
- width="30.253998">
+ viewBox="0 0 11.386122 1.4124829"
+ height="5.3385181"
+ width="43.034164">
 <defs
  id="defs2985">
+<linearGradient
+ osb:paint="solid"
+ id="linearGradient2964">
+<stop
+ id="stop2962"
+ offset="0"
+ style="stop-color:#000000;stop-opacity:1;" />
+</linearGradient>
+<linearGradient
+ osb:paint="solid"
+ id="linearGradient2955">
+<stop
+ id="stop2953"
+ offset="0"
+ style="stop-color:#000000;stop-opacity:1;" />
+</linearGradient>
 <pattern
  inkscape:collect="always"
  xlink:href="#pattern2767"
@@ -79,9 +95,9 @@
  inkscape:document-rotation="0"
  inkscape:current-layer="layer1"
  inkscape:document-units="mm"
- inkscape:cy="1.6911652"
- inkscape:cx="23.758735"
- inkscape:zoom="17.974846"
+ inkscape:cy="4.0213126"
+ inkscape:cx="24.173746"
+ inkscape:zoom="24.538643"
  inkscape:pageshadow="2"
  inkscape:pageopacity="0.0"
  borderopacity="1.0"
@@ -101,7 +117,7 @@
 </rdf:RDF>
 </metadata>
 <g
- transform="translate(-439.82262,-365.8489)"
+ transform="translate(-438.25876,-365.85968)"
  id="layer1"
  inkscape:groupmode="layer"
  inkscape:label="Capa 1">
