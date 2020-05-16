@@ -337,7 +337,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/gsada-4-1600x1200.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
@@ -352,7 +352,7 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-5 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-preview mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span>ver todos los proyectos</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-5 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-preview mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span>todos los proyectos</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/018-escalera-1200x883.jpg",
@@ -371,7 +371,7 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white-outline display-5\" data-app-placeholder=\"Type Text\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-preview mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span>ver todas las casas</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white-outline display-5\" data-app-placeholder=\"Type Text\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-preview mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span>todas las casas</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/n-1-1500x1125.jpg",
@@ -390,11 +390,11 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white-outline display-5\" data-app-placeholder=\"Type Text\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-preview mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span>ver todas las oficinas<br></a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white-outline display-5\" data-app-placeholder=\"Type Text\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-preview mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span>todas las oficinas<br></a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sae-8-1800x1344.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
@@ -409,7 +409,7 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white-outline display-5\" data-app-placeholder=\"Type Text\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-preview mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span>ver todas las remodelaciones</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white-outline display-5\" data-app-placeholder=\"Type Text\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-preview mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span>todas las remodelaciones</a> "
               }
             ]
           }
