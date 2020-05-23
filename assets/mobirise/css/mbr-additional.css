@@ -3,11 +3,11 @@ body {
 }
 .display-1 {
   font-family: '911Fonts.com_CenturyGothicRegular__-_911fonts.com_fonts_mhpY-1';
-  font-size: 2rem;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 1.92rem;
 }
 .display-2 {
   font-family: '911Fonts.com_CenturyGothicRegular__-_911fonts.com_fonts_mhpY-1';
@@ -48,9 +48,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 0.8rem;
