@@ -1279,6 +1279,18 @@ section.lazy-placeholder:after {
 .cid-rZ5MNMiqZR H2 {
   text-align: center;
 }
+.cid-s20WNEMpy8 {
+  background: #ffffff;
+}
+.cid-s20WNEMpy8 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-s20WNEMpy8 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rZsgP9l5xp {
   padding-top: 0px;
   padding-bottom: 0px;
