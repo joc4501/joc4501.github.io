@@ -1145,84 +1145,15 @@ section.lazy-placeholder:after {
 .cid-rZsgP9l5xp .links {
   color: #a1a1a1;
 }
-.cid-s3HIa18yOs {
-  padding-top: 90px;
+.cid-s3HPCniNwM {
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-s3HIa18yOs .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-s3HIa18yOs h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-s3HIa18yOs p {
-  color: #767676;
-  text-align: left;
-}
-.cid-s3HIa18yOs .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-s3HIa18yOs .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-s3HIa18yOs .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-s3HIa18yOs .card-title {
-  color: #a1a1a1;
-  text-align: center;
-}
-.cid-s3HIa18yOs P {
-  color: #a1a1a1;
-  text-align: center;
-}
-.cid-s3HuIzUagR {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-s3HuIzUagR .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-s3HuIzUagR .mbr-content-text {
-  color: #767676;
-}
-.cid-s3HuIzUagR .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-s3HuIzUagR .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
-}
-@media (max-width: 767px) {
-  .cid-s3HuIzUagR .card:not(.last-child) {
-    padding-bottom: 1.5rem;
-  }
-}
-.cid-s3HuIzUagR .img-text {
+.cid-s3HPCniNwM .mbr-section-subtitle {
   color: #a1a1a1;
 }
-.cid-s3HuIzUagR .mbr-section-title {
+.cid-s3HPCniNwM H2 {
   color: #a1a1a1;
 }
 .cid-rWyrm5EdYN {
@@ -1288,7 +1219,7 @@ section.lazy-placeholder:after {
   background: linear-gradient(to left, #ffffff, #45505b) !important;
 }
 .cid-rZt4AKR8iT {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
