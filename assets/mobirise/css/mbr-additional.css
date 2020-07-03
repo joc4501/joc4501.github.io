@@ -1145,15 +1145,42 @@ section.lazy-placeholder:after {
 .cid-rZsgP9l5xp .links {
   color: #a1a1a1;
 }
-.cid-rX7Yp13IUL {
-  padding-top: 60px;
+.cid-s3HuIzUagR {
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rX7Yp13IUL .mbr-section-subtitle {
+.cid-s3HuIzUagR .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-s3HuIzUagR .mbr-content-text {
+  color: #767676;
+}
+.cid-s3HuIzUagR .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-s3HuIzUagR .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+@media (max-width: 767px) {
+  .cid-s3HuIzUagR .card:not(.last-child) {
+    padding-bottom: 1.5rem;
+  }
+}
+.cid-s3HuIzUagR .img-text {
   color: #a1a1a1;
 }
-.cid-rX7Yp13IUL H2 {
+.cid-s3HuIzUagR .mbr-section-title {
   color: #a1a1a1;
 }
 .cid-rWyrm5EdYN {
@@ -3331,7 +3358,7 @@ section.lazy-placeholder:after {
 .cid-s3l9fKOBxx {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/hir-8-1800x1421.jpg");
+  background-image: url("../../../assets/images/portada-hir-1800x987.jpg");
 }
 .cid-s3l9fKOBxx .mbr-text,
 .cid-s3l9fKOBxx .mbr-section-btn {
@@ -5012,7 +5039,7 @@ section.lazy-placeholder:after {
 .cid-s3l64AKb9E {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/gsada-4-1600x1200.jpg");
+  background-image: url("../../../assets/images/gsada-4-1800x1313.jpg");
 }
 .cid-s3l64AKb9E .mbr-text,
 .cid-s3l64AKb9E .mbr-section-btn {
