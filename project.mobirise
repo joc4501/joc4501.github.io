@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "OCAMPOarquitectos",
-    "currentPage": "page38.html",
+    "currentPage": "page35.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -73,7 +73,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 488,
+    "uniqCompNum": 492,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -505,7 +505,7 @@
             }
           },
           "_name": "menu2",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global not-draggable once=\"menu\" position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"4.3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#333333\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#a1a1a1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{\n        'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent\n        }\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/001-30-px.svg\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.co\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,\n                'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>\n                        inicio</a>\n                </li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page10.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>proyectos</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page13.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">ampliación oficinas digrans</a><a class=\"dropdown-item text-primary\" href=\"page14.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aum</a><a class=\"dropdown-item text-primary\" href=\"page15.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loef</a><a class=\"dropdown-item text-primary\" href=\"page22.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">jugos del valle</a><a class=\"dropdown-item text-primary\" href=\"page4.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa cst</a><a class=\"dropdown-item text-primary\" href=\"page3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa garza sada</a><a class=\"dropdown-item text-primary\" href=\"page37.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">spread</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page7.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>casas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page8.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa alv</a><a class=\"dropdown-item text-primary\" href=\"page38.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rtl</a><a class=\"dropdown-item text-primary\" href=\"page9.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa hir</a><a class=\"dropdown-item text-primary\" href=\"page17.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aeg</a><a class=\"dropdown-item text-primary\" href=\"page26.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 1</a><a class=\"dropdown-item text-primary\" href=\"page29.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 2</a><a class=\"dropdown-item text-primary\" href=\"page35.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa ttv</a><a class=\"dropdown-item text-primary\" href=\"page31.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">monclova 35</a></div></li>\n                <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page11.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>oficinas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page28.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 1</a><a class=\"dropdown-item text-primary\" href=\"page16.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 2</a><a class=\"dropdown-item text-primary\" href=\"page19.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">dcm</a><a class=\"dropdown-item text-primary\" href=\"page24.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">grupo alc</a><a class=\"dropdown-item text-primary\" href=\"page27.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">digrans 2</a><a class=\"dropdown-item text-primary\" href=\"page20.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 1</a><a class=\"dropdown-item text-primary\" href=\"page34.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 2</a><a class=\"dropdown-item text-primary\" href=\"page32.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">reserva gourmet</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-update mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>remodelaciones</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page18.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa trt</a><a class=\"dropdown-item text-primary\" href=\"page23.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loz</a><a class=\"dropdown-item text-primary\" href=\"page25.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 1</a><a class=\"dropdown-item text-primary\" href=\"page33.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 2</a><a class=\"dropdown-item text-primary\" href=\"page21.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa gag</a><a class=\"dropdown-item text-primary\" href=\"page30.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa par</a><a class=\"dropdown-item text-primary\" href=\"page36.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">cocina toledo</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>compartir</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"https://api.whatsapp.com/send?phone=525554135690&text=Hola,%20podremos%20hacer%20una%20cita%20para%20platicar?\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>whatsapp</a></div></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"tel:+1-234-567-8901\" data-app-placeholder=\"Type Text\">\n                    <span class=\"btn-icon mbri-mobile mbr-iconfont mbr-iconfont-btn\" data-app-selector=\".mbr-iconfont-btn\">\n                    </span>\n                    +1-234-567-8901\n                </a></div>\n        </div>\n    </nav>\n</section>",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global not-draggable once=\"menu\" position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"4.3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#333333\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#a1a1a1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{\n        'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent\n        }\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/001-30-px.svg\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.co\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,\n                'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>\n                        inicio</a>\n                </li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page10.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>proyectos</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page13.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">ampliación oficinas digrans</a><a class=\"dropdown-item text-primary\" href=\"page14.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aum</a><a class=\"dropdown-item text-primary\" href=\"page15.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loef</a><a class=\"dropdown-item text-primary\" href=\"page22.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">jugos del valle</a><a class=\"dropdown-item text-primary\" href=\"page4.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa cst</a><a class=\"dropdown-item text-primary\" href=\"page3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa garza sada</a><a class=\"dropdown-item text-primary\" href=\"page37.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">spread</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page7.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>casas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page8.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa alv</a><a class=\"dropdown-item text-primary\" href=\"page38.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rtl</a><a class=\"dropdown-item text-primary\" href=\"page9.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa hir</a><a class=\"dropdown-item text-primary\" href=\"page17.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aeg</a><a class=\"dropdown-item text-primary\" href=\"page26.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 1</a><a class=\"dropdown-item text-primary\" href=\"page29.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 2</a><a class=\"dropdown-item text-primary\" href=\"page35.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa ttv</a><a class=\"dropdown-item text-primary\" href=\"page31.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">monclova 35</a></div></li>\n                <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page11.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>oficinas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page28.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 1</a><a class=\"dropdown-item text-primary\" href=\"page16.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 2</a><a class=\"dropdown-item text-primary\" href=\"page19.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">dcm</a><a class=\"dropdown-item text-primary\" href=\"page24.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">grupo alc</a><a class=\"dropdown-item text-primary\" href=\"page27.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">digrans 2</a><a class=\"dropdown-item text-primary\" href=\"page20.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 1</a><a class=\"dropdown-item text-primary\" href=\"page34.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 2</a><a class=\"dropdown-item text-primary\" href=\"page32.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">reserva gourmet</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-update mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>remodelaciones</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page18.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa trt</a><a class=\"dropdown-item text-primary\" href=\"page23.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loz</a><a class=\"dropdown-item text-primary\" href=\"page25.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 1</a><a class=\"dropdown-item text-primary\" href=\"page33.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 2</a><a class=\"dropdown-item text-primary\" href=\"page21.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa gag</a><a class=\"dropdown-item text-primary\" href=\"page30.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa par</a><a class=\"dropdown-item text-primary\" href=\"page36.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">cocina toledo</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>compartir</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"https://api.whatsapp.com/send?phone=525554135690&text=Hola,%20podremos%20hacer%20una%20cita%20para%20platicar?\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>whatsapp</a></div></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"tel:+1-234-567-8901\" data-app-placeholder=\"Type Text\">\n                    <span class=\"btn-icon mbri-mobile mbr-iconfont mbr-iconfont-btn\" data-app-selector=\".mbr-iconfont-btn\">\n                    </span>\n                    +1-234-567-8901\n                </a></div>\n        </div>\n    </nav>\n</section>",
           "_anchor": "menu2-b7",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -771,7 +771,7 @@
     },
     "page4.html": {
       "settings": {
-        "title": "casa cst",
+        "title": "OARX · casa cst",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1516,7 +1516,7 @@
     },
     "page3.html": {
       "settings": {
-        "title": "casa garza sada",
+        "title": "OARX · casa garza sada",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2209,12 +2209,12 @@
     },
     "page5.html": {
       "settings": {
-        "title": "contacto",
+        "title": "OARX · contacto",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -2855,12 +2855,12 @@
     },
     "page6.html": {
       "settings": {
-        "title": "aviso de privacidad",
+        "title": "OARX · aviso de privacidad",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -3432,7 +3432,7 @@
     },
     "page7.html": {
       "settings": {
-        "title": "casas",
+        "title": "OARX · casas",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -4193,7 +4193,7 @@
             }
           },
           "_name": "menu2",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global not-draggable once=\"menu\" position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"4.3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#333333\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#a1a1a1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{\n        'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent\n        }\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/001-30-px.svg\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.co\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,\n                'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>\n                        inicio</a>\n                </li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page10.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>proyectos</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page13.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">ampliación oficinas digrans</a><a class=\"dropdown-item text-primary\" href=\"page14.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aum</a><a class=\"dropdown-item text-primary\" href=\"page15.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loef</a><a class=\"dropdown-item text-primary\" href=\"page22.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">jugos del valle</a><a class=\"dropdown-item text-primary\" href=\"page4.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa cst</a><a class=\"dropdown-item text-primary\" href=\"page3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa garza sada</a><a class=\"dropdown-item text-primary\" href=\"page37.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">spread</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page7.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>casas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page8.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa alv</a><a class=\"dropdown-item text-primary\" href=\"page38.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rtl</a><a class=\"dropdown-item text-primary\" href=\"page9.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa hir</a><a class=\"dropdown-item text-primary\" href=\"page17.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aeg</a><a class=\"dropdown-item text-primary\" href=\"page26.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 1</a><a class=\"dropdown-item text-primary\" href=\"page29.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 2</a><a class=\"dropdown-item text-primary\" href=\"page35.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa ttv</a><a class=\"dropdown-item text-primary\" href=\"page31.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">monclova 35</a></div></li>\n                <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page11.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>oficinas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page28.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 1</a><a class=\"dropdown-item text-primary\" href=\"page16.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 2</a><a class=\"dropdown-item text-primary\" href=\"page19.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">dcm</a><a class=\"dropdown-item text-primary\" href=\"page24.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">grupo alc</a><a class=\"dropdown-item text-primary\" href=\"page27.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">digrans 2</a><a class=\"dropdown-item text-primary\" href=\"page20.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 1</a><a class=\"dropdown-item text-primary\" href=\"page34.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 2</a><a class=\"dropdown-item text-primary\" href=\"page32.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">reserva gourmet</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-update mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>remodelaciones</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page18.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa trt</a><a class=\"dropdown-item text-primary\" href=\"page23.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loz</a><a class=\"dropdown-item text-primary\" href=\"page25.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 1</a><a class=\"dropdown-item text-primary\" href=\"page33.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 2</a><a class=\"dropdown-item text-primary\" href=\"page21.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa gag</a><a class=\"dropdown-item text-primary\" href=\"page30.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa par</a><a class=\"dropdown-item text-primary\" href=\"page36.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">cocina toledo</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>compartir</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"https://api.whatsapp.com/send?phone=525554135690&text=Hola,%20podremos%20hacer%20una%20cita%20para%20platicar?\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>whatsapp</a></div></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"tel:+1-234-567-8901\" data-app-placeholder=\"Type Text\">\n                    <span class=\"btn-icon mbri-mobile mbr-iconfont mbr-iconfont-btn\" data-app-selector=\".mbr-iconfont-btn\">\n                    </span>\n                    +1-234-567-8901\n                </a></div>\n        </div>\n    </nav>\n</section>",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global not-draggable once=\"menu\" position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"4.3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#333333\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#a1a1a1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{\n        'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent\n        }\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/001-30-px.svg\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.co\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,\n                'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>\n                        inicio</a>\n                </li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page10.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>proyectos</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page13.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">ampliación oficinas digrans</a><a class=\"dropdown-item text-primary\" href=\"page14.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aum</a><a class=\"dropdown-item text-primary\" href=\"page15.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loef</a><a class=\"dropdown-item text-primary\" href=\"page22.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">jugos del valle</a><a class=\"dropdown-item text-primary\" href=\"page4.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa cst</a><a class=\"dropdown-item text-primary\" href=\"page3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa garza sada</a><a class=\"dropdown-item text-primary\" href=\"page37.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">spread</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page7.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>casas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page8.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa alv</a><a class=\"dropdown-item text-primary\" href=\"page38.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rtl</a><a class=\"dropdown-item text-primary\" href=\"page9.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa hir</a><a class=\"dropdown-item text-primary\" href=\"page17.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aeg</a><a class=\"dropdown-item text-primary\" href=\"page26.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 1</a><a class=\"dropdown-item text-primary\" href=\"page29.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 2</a><a class=\"dropdown-item text-primary\" href=\"page35.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa ttv</a><a class=\"dropdown-item text-primary\" href=\"page31.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">monclova 35</a></div></li>\n                <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page11.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>oficinas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page28.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 1</a><a class=\"dropdown-item text-primary\" href=\"page16.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 2</a><a class=\"dropdown-item text-primary\" href=\"page19.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">dcm</a><a class=\"dropdown-item text-primary\" href=\"page24.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">grupo alc</a><a class=\"dropdown-item text-primary\" href=\"page27.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">digrans 2</a><a class=\"dropdown-item text-primary\" href=\"page20.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 1</a><a class=\"dropdown-item text-primary\" href=\"page34.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 2</a><a class=\"dropdown-item text-primary\" href=\"page32.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">reserva gourmet</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-update mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>remodelaciones</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page18.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa trt</a><a class=\"dropdown-item text-primary\" href=\"page23.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loz</a><a class=\"dropdown-item text-primary\" href=\"page25.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 1</a><a class=\"dropdown-item text-primary\" href=\"page33.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 2</a><a class=\"dropdown-item text-primary\" href=\"page21.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa gag</a><a class=\"dropdown-item text-primary\" href=\"page30.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa par</a><a class=\"dropdown-item text-primary\" href=\"page36.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">cocina toledo</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>compartir</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"https://api.whatsapp.com/send?phone=525554135690&text=Hola,%20podremos%20hacer%20una%20cita%20para%20platicar?\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>whatsapp</a></div></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"tel:+1-234-567-8901\" data-app-placeholder=\"Type Text\">\n                    <span class=\"btn-icon mbri-mobile mbr-iconfont mbr-iconfont-btn\" data-app-selector=\".mbr-iconfont-btn\">\n                    </span>\n                    +1-234-567-8901\n                </a></div>\n        </div>\n    </nav>\n</section>",
           "_anchor": "menu2-b7",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -4207,12 +4207,12 @@
     },
     "page8.html": {
       "settings": {
-        "title": "casa alv",
+        "title": "OARX · casa alv",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -4991,12 +4991,12 @@
     },
     "page9.html": {
       "settings": {
-        "title": "casa hir",
+        "title": "OARX · casa hir",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -5775,7 +5775,7 @@
     },
     "page10.html": {
       "settings": {
-        "title": "proyectos",
+        "title": "OARX · proyectos",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -6522,7 +6522,7 @@
     },
     "page11.html": {
       "settings": {
-        "title": "oficinas",
+        "title": "OARX · oficinas",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -7297,7 +7297,7 @@
     },
     "page12.html": {
       "settings": {
-        "title": "remodelaciones",
+        "title": "OARX · remodelaciones",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -8044,12 +8044,12 @@
     },
     "page13.html": {
       "settings": {
-        "title": "ampliación oficinas digrans",
+        "title": "OARX · ampliación oficinas digrans",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -8802,12 +8802,12 @@
     },
     "page14.html": {
       "settings": {
-        "title": "casa aum",
+        "title": "OARX · casa aum",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -9586,12 +9586,12 @@
     },
     "page15.html": {
       "settings": {
-        "title": "casa loef",
+        "title": "OARX · casa loef",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -10409,12 +10409,12 @@
     },
     "page16.html": {
       "settings": {
-        "title": "vct&dg 2",
+        "title": "OARX · vct&amp;dg 2",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -11336,12 +11336,12 @@
     },
     "page17.html": {
       "settings": {
-        "title": "casa aeg",
+        "title": "OARX · casa aeg",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -12237,12 +12237,12 @@
     },
     "page18.html": {
       "settings": {
-        "title": "casa trt",
+        "title": "OARX · casa trt",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -13060,12 +13060,12 @@
     },
     "page19.html": {
       "settings": {
-        "title": "dcm",
+        "title": "OARX · dcm",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -13857,12 +13857,12 @@
     },
     "page20.html": {
       "settings": {
-        "title": "fao 1",
+        "title": "OARX · fao 1",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -14576,12 +14576,12 @@
     },
     "page21.html": {
       "settings": {
-        "title": "casa gag",
+        "title": "OARX · casa gag",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -15282,12 +15282,12 @@
     },
     "page22.html": {
       "settings": {
-        "title": "jdv",
+        "title": "OARX · jdv",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -15988,12 +15988,12 @@
     },
     "page23.html": {
       "settings": {
-        "title": "casa loz",
+        "title": "OARX · casa loz",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -16785,12 +16785,12 @@
     },
     "page24.html": {
       "settings": {
-        "title": "grupo alc",
+        "title": "OARX · grupo alc",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -17491,12 +17491,12 @@
     },
     "page25.html": {
       "settings": {
-        "title": "campos eliseos 1",
+        "title": "OARX · campos eliseos 1",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -18250,12 +18250,12 @@
     },
     "page26.html": {
       "settings": {
-        "title": "casa rsf 1",
+        "title": "OARX · casa rsf 1",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -19151,12 +19151,12 @@
     },
     "page27.html": {
       "settings": {
-        "title": "digrans 2",
+        "title": "OARX · digrans 2",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -19896,12 +19896,12 @@
     },
     "page28.html": {
       "settings": {
-        "title": "vct&dg 1",
+        "title": "OARX · vct&amp;dg 1",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -20745,12 +20745,12 @@
     },
     "page29.html": {
       "settings": {
-        "title": "casa rsf 2",
+        "title": "OARX · casa rsf 2",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -21685,12 +21685,12 @@
     },
     "page30.html": {
       "settings": {
-        "title": "casa par",
+        "title": "OARX · casa par",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -22456,12 +22456,12 @@
     },
     "page31.html": {
       "settings": {
-        "title": "monclova 35",
+        "title": "OARX · monclova 35",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -23227,7 +23227,7 @@
     },
     "page32.html": {
       "settings": {
-        "title": "reserva gourmet",
+        "title": "OARX · reserva gourmet",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -23985,12 +23985,12 @@
     },
     "page33.html": {
       "settings": {
-        "title": "campos eliseos 2",
+        "title": "OARX · campos eliseos 2",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -24730,12 +24730,12 @@
     },
     "page34.html": {
       "settings": {
-        "title": "fao 2",
+        "title": "OARX · fao 2",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -25423,7 +25423,7 @@
     },
     "page35.html": {
       "settings": {
-        "title": "casa ttv",
+        "title": "OARX · casa ttv",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -25573,8 +25573,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ttv-4-1338x1800.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/ttv-4-1338x1800-800x930.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/ttv-8-1338x1800.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/ttv-8-1338x1800-800x940.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -25586,8 +25586,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ttv-03b-5-1350x1800.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/ttv-03b-5-1350x1800-800x934.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/ttv-03b-8-1350x1800.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/ttv-03b-8-1350x1800-800x940.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -25677,8 +25677,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ttv-18-2000x2658.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/ttv-18-2000x2658-800x927.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/ttv-21-2000x2658.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/ttv-21-2000x2658-800x937.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -25690,8 +25690,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ttv-17-2000x2663.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/ttv-17-2000x2663-800x920.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/ttv-19-2000x2663.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/ttv-19-2000x2663-800x936.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -25729,8 +25729,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ttv-19-2000x2665.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/ttv-19-2000x2665-800x936.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/ttv-21-2000x2665.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/ttv-21-2000x2665-800x939.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -25742,8 +25742,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ttv-21-2000x2667.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/ttv-21-2000x2667-800x938.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/ttv-23-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/ttv-23-2000x2667-800x939.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -25800,7 +25800,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animada",
@@ -25826,7 +25826,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animada",
@@ -25839,7 +25839,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animada",
@@ -25852,7 +25852,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animada",
@@ -25865,7 +25865,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animada",
@@ -25878,7 +25878,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animada",
@@ -25891,7 +25891,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animada",
@@ -25904,7 +25904,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               }
             ]
           }
@@ -26414,7 +26414,7 @@
             }
           },
           "_name": "menu2",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global not-draggable once=\"menu\" position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"4.3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#333333\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#a1a1a1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{\n        'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent\n        }\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/001-30-px.svg\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.co\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,\n                'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>\n                        inicio</a>\n                </li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page10.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>proyectos</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page13.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">ampliación oficinas digrans</a><a class=\"dropdown-item text-primary\" href=\"page14.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aum</a><a class=\"dropdown-item text-primary\" href=\"page15.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loef</a><a class=\"dropdown-item text-primary\" href=\"page22.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">jugos del valle</a><a class=\"dropdown-item text-primary\" href=\"page4.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa cst</a><a class=\"dropdown-item text-primary\" href=\"page3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa garza sada</a><a class=\"dropdown-item text-primary\" href=\"page37.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">spread</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page7.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>casas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page8.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa alv</a><a class=\"dropdown-item text-primary\" href=\"page38.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rtl</a><a class=\"dropdown-item text-primary\" href=\"page9.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa hir</a><a class=\"dropdown-item text-primary\" href=\"page17.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aeg</a><a class=\"dropdown-item text-primary\" href=\"page26.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 1</a><a class=\"dropdown-item text-primary\" href=\"page29.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 2</a><a class=\"dropdown-item text-primary\" href=\"page35.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa ttv</a><a class=\"dropdown-item text-primary\" href=\"page31.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">monclova 35</a></div></li>\n                <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page11.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>oficinas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page28.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 1</a><a class=\"dropdown-item text-primary\" href=\"page16.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 2</a><a class=\"dropdown-item text-primary\" href=\"page19.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">dcm</a><a class=\"dropdown-item text-primary\" href=\"page24.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">grupo alc</a><a class=\"dropdown-item text-primary\" href=\"page27.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">digrans 2</a><a class=\"dropdown-item text-primary\" href=\"page20.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 1</a><a class=\"dropdown-item text-primary\" href=\"page34.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 2</a><a class=\"dropdown-item text-primary\" href=\"page32.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">reserva gourmet</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-update mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>remodelaciones</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page18.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa trt</a><a class=\"dropdown-item text-primary\" href=\"page23.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loz</a><a class=\"dropdown-item text-primary\" href=\"page25.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 1</a><a class=\"dropdown-item text-primary\" href=\"page33.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 2</a><a class=\"dropdown-item text-primary\" href=\"page21.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa gag</a><a class=\"dropdown-item text-primary\" href=\"page30.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa par</a><a class=\"dropdown-item text-primary\" href=\"page36.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">cocina toledo</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>compartir</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"https://api.whatsapp.com/send?phone=525554135690&text=Hola,%20podremos%20hacer%20una%20cita%20para%20platicar?\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>whatsapp</a></div></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"tel:+1-234-567-8901\" data-app-placeholder=\"Type Text\">\n                    <span class=\"btn-icon mbri-mobile mbr-iconfont mbr-iconfont-btn\" data-app-selector=\".mbr-iconfont-btn\">\n                    </span>\n                    +1-234-567-8901\n                </a></div>\n        </div>\n    </nav>\n</section>",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global not-draggable once=\"menu\" position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"4.3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#333333\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#a1a1a1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{\n        'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent\n        }\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/001-30-px.svg\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.co\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,\n                'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>\n                        inicio</a>\n                </li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page10.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>proyectos</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page13.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">ampliación oficinas digrans</a><a class=\"dropdown-item text-primary\" href=\"page14.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aum</a><a class=\"dropdown-item text-primary\" href=\"page15.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loef</a><a class=\"dropdown-item text-primary\" href=\"page22.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">jugos del valle</a><a class=\"dropdown-item text-primary\" href=\"page4.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa cst</a><a class=\"dropdown-item text-primary\" href=\"page3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa garza sada</a><a class=\"dropdown-item text-primary\" href=\"page37.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">spread</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page7.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>casas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page8.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa alv</a><a class=\"dropdown-item text-primary\" href=\"page38.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rtl</a><a class=\"dropdown-item text-primary\" href=\"page9.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa hir</a><a class=\"dropdown-item text-primary\" href=\"page17.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aeg</a><a class=\"dropdown-item text-primary\" href=\"page26.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 1</a><a class=\"dropdown-item text-primary\" href=\"page29.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 2</a><a class=\"dropdown-item text-primary\" href=\"page35.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa ttv</a><a class=\"dropdown-item text-primary\" href=\"page31.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">monclova 35</a></div></li>\n                <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page11.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>oficinas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page28.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 1</a><a class=\"dropdown-item text-primary\" href=\"page16.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 2</a><a class=\"dropdown-item text-primary\" href=\"page19.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">dcm</a><a class=\"dropdown-item text-primary\" href=\"page24.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">grupo alc</a><a class=\"dropdown-item text-primary\" href=\"page27.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">digrans 2</a><a class=\"dropdown-item text-primary\" href=\"page20.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 1</a><a class=\"dropdown-item text-primary\" href=\"page34.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 2</a><a class=\"dropdown-item text-primary\" href=\"page32.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">reserva gourmet</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-update mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>remodelaciones</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page18.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa trt</a><a class=\"dropdown-item text-primary\" href=\"page23.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loz</a><a class=\"dropdown-item text-primary\" href=\"page25.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 1</a><a class=\"dropdown-item text-primary\" href=\"page33.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 2</a><a class=\"dropdown-item text-primary\" href=\"page21.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa gag</a><a class=\"dropdown-item text-primary\" href=\"page30.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa par</a><a class=\"dropdown-item text-primary\" href=\"page36.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">cocina toledo</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>compartir</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"https://api.whatsapp.com/send?phone=525554135690&text=Hola,%20podremos%20hacer%20una%20cita%20para%20platicar?\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>whatsapp</a></div></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"tel:+1-234-567-8901\" data-app-placeholder=\"Type Text\">\n                    <span class=\"btn-icon mbri-mobile mbr-iconfont mbr-iconfont-btn\" data-app-selector=\".mbr-iconfont-btn\">\n                    </span>\n                    +1-234-567-8901\n                </a></div>\n        </div>\n    </nav>\n</section>",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "s5BtQDhJ1M",
@@ -26428,7 +26428,7 @@
     },
     "page36.html": {
       "settings": {
-        "title": "cocina toledo",
+        "title": "OARX · cocina toledo",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -27263,7 +27263,7 @@
             }
           },
           "_name": "menu2",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global not-draggable once=\"menu\" position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"4.3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#333333\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#a1a1a1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{\n        'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent\n        }\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/001-30-px.svg\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.co\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,\n                'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>\n                        inicio</a>\n                </li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page10.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>proyectos</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page13.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">ampliación oficinas digrans</a><a class=\"dropdown-item text-primary\" href=\"page14.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aum</a><a class=\"dropdown-item text-primary\" href=\"page15.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loef</a><a class=\"dropdown-item text-primary\" href=\"page22.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">jugos del valle</a><a class=\"dropdown-item text-primary\" href=\"page4.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa cst</a><a class=\"dropdown-item text-primary\" href=\"page3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa garza sada</a><a class=\"dropdown-item text-primary\" href=\"page37.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">spread</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page7.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>casas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page8.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa alv</a><a class=\"dropdown-item text-primary\" href=\"page38.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rtl</a><a class=\"dropdown-item text-primary\" href=\"page9.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa hir</a><a class=\"dropdown-item text-primary\" href=\"page17.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aeg</a><a class=\"dropdown-item text-primary\" href=\"page26.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 1</a><a class=\"dropdown-item text-primary\" href=\"page29.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 2</a><a class=\"dropdown-item text-primary\" href=\"page35.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa ttv</a><a class=\"dropdown-item text-primary\" href=\"page31.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">monclova 35</a></div></li>\n                <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page11.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>oficinas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page28.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 1</a><a class=\"dropdown-item text-primary\" href=\"page16.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 2</a><a class=\"dropdown-item text-primary\" href=\"page19.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">dcm</a><a class=\"dropdown-item text-primary\" href=\"page24.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">grupo alc</a><a class=\"dropdown-item text-primary\" href=\"page27.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">digrans 2</a><a class=\"dropdown-item text-primary\" href=\"page20.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 1</a><a class=\"dropdown-item text-primary\" href=\"page34.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 2</a><a class=\"dropdown-item text-primary\" href=\"page32.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">reserva gourmet</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-update mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>remodelaciones</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page18.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa trt</a><a class=\"dropdown-item text-primary\" href=\"page23.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loz</a><a class=\"dropdown-item text-primary\" href=\"page25.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 1</a><a class=\"dropdown-item text-primary\" href=\"page33.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 2</a><a class=\"dropdown-item text-primary\" href=\"page21.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa gag</a><a class=\"dropdown-item text-primary\" href=\"page30.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa par</a><a class=\"dropdown-item text-primary\" href=\"page36.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">cocina toledo</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>compartir</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"https://api.whatsapp.com/send?phone=525554135690&text=Hola,%20podremos%20hacer%20una%20cita%20para%20platicar?\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>whatsapp</a></div></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"tel:+1-234-567-8901\" data-app-placeholder=\"Type Text\">\n                    <span class=\"btn-icon mbri-mobile mbr-iconfont mbr-iconfont-btn\" data-app-selector=\".mbr-iconfont-btn\">\n                    </span>\n                    +1-234-567-8901\n                </a></div>\n        </div>\n    </nav>\n</section>",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global not-draggable once=\"menu\" position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"4.3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#333333\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#a1a1a1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{\n        'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent\n        }\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/001-30-px.svg\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.co\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,\n                'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>\n                        inicio</a>\n                </li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page10.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>proyectos</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page13.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">ampliación oficinas digrans</a><a class=\"dropdown-item text-primary\" href=\"page14.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aum</a><a class=\"dropdown-item text-primary\" href=\"page15.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loef</a><a class=\"dropdown-item text-primary\" href=\"page22.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">jugos del valle</a><a class=\"dropdown-item text-primary\" href=\"page4.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa cst</a><a class=\"dropdown-item text-primary\" href=\"page3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa garza sada</a><a class=\"dropdown-item text-primary\" href=\"page37.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">spread</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page7.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>casas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page8.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa alv</a><a class=\"dropdown-item text-primary\" href=\"page38.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rtl</a><a class=\"dropdown-item text-primary\" href=\"page9.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa hir</a><a class=\"dropdown-item text-primary\" href=\"page17.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aeg</a><a class=\"dropdown-item text-primary\" href=\"page26.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 1</a><a class=\"dropdown-item text-primary\" href=\"page29.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 2</a><a class=\"dropdown-item text-primary\" href=\"page35.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa ttv</a><a class=\"dropdown-item text-primary\" href=\"page31.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">monclova 35</a></div></li>\n                <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page11.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>oficinas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page28.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 1</a><a class=\"dropdown-item text-primary\" href=\"page16.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 2</a><a class=\"dropdown-item text-primary\" href=\"page19.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">dcm</a><a class=\"dropdown-item text-primary\" href=\"page24.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">grupo alc</a><a class=\"dropdown-item text-primary\" href=\"page27.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">digrans 2</a><a class=\"dropdown-item text-primary\" href=\"page20.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 1</a><a class=\"dropdown-item text-primary\" href=\"page34.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 2</a><a class=\"dropdown-item text-primary\" href=\"page32.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">reserva gourmet</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-update mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>remodelaciones</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page18.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa trt</a><a class=\"dropdown-item text-primary\" href=\"page23.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loz</a><a class=\"dropdown-item text-primary\" href=\"page25.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 1</a><a class=\"dropdown-item text-primary\" href=\"page33.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 2</a><a class=\"dropdown-item text-primary\" href=\"page21.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa gag</a><a class=\"dropdown-item text-primary\" href=\"page30.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa par</a><a class=\"dropdown-item text-primary\" href=\"page36.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">cocina toledo</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>compartir</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"https://api.whatsapp.com/send?phone=525554135690&text=Hola,%20podremos%20hacer%20una%20cita%20para%20platicar?\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>whatsapp</a></div></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"tel:+1-234-567-8901\" data-app-placeholder=\"Type Text\">\n                    <span class=\"btn-icon mbri-mobile mbr-iconfont mbr-iconfont-btn\" data-app-selector=\".mbr-iconfont-btn\">\n                    </span>\n                    +1-234-567-8901\n                </a></div>\n        </div>\n    </nav>\n</section>",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "s64nnJSEaB",
@@ -27277,7 +27277,7 @@
     },
     "page37.html": {
       "settings": {
-        "title": "spread",
+        "title": "OARX · spread",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -28100,7 +28100,7 @@
     },
     "page38.html": {
       "settings": {
-        "title": "OARX · casa rtl&nbsp;",
+        "title": "OARX · casa rtl",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -28974,7 +28974,7 @@
             }
           },
           "_name": "menu2",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global not-draggable once=\"menu\" position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"4.3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#333333\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#a1a1a1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{\n        'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent\n        }\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/001-30-px.svg\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.co\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,\n                'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>\n                        inicio</a>\n                </li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page10.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>proyectos</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page13.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">ampliación oficinas digrans</a><a class=\"dropdown-item text-primary\" href=\"page14.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aum</a><a class=\"dropdown-item text-primary\" href=\"page15.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loef</a><a class=\"dropdown-item text-primary\" href=\"page22.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">jugos del valle</a><a class=\"dropdown-item text-primary\" href=\"page4.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa cst</a><a class=\"dropdown-item text-primary\" href=\"page3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa garza sada</a><a class=\"dropdown-item text-primary\" href=\"page37.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">spread</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page7.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>casas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page8.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa alv</a><a class=\"dropdown-item text-primary\" href=\"page38.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rtl</a><a class=\"dropdown-item text-primary\" href=\"page9.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa hir</a><a class=\"dropdown-item text-primary\" href=\"page17.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aeg</a><a class=\"dropdown-item text-primary\" href=\"page26.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 1</a><a class=\"dropdown-item text-primary\" href=\"page29.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 2</a><a class=\"dropdown-item text-primary\" href=\"page35.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa ttv</a><a class=\"dropdown-item text-primary\" href=\"page31.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">monclova 35</a></div></li>\n                <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page11.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>oficinas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page28.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 1</a><a class=\"dropdown-item text-primary\" href=\"page16.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 2</a><a class=\"dropdown-item text-primary\" href=\"page19.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">dcm</a><a class=\"dropdown-item text-primary\" href=\"page24.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">grupo alc</a><a class=\"dropdown-item text-primary\" href=\"page27.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">digrans 2</a><a class=\"dropdown-item text-primary\" href=\"page20.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 1</a><a class=\"dropdown-item text-primary\" href=\"page34.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 2</a><a class=\"dropdown-item text-primary\" href=\"page32.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">reserva gourmet</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-update mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>remodelaciones</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page18.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa trt</a><a class=\"dropdown-item text-primary\" href=\"page23.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loz</a><a class=\"dropdown-item text-primary\" href=\"page25.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 1</a><a class=\"dropdown-item text-primary\" href=\"page33.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 2</a><a class=\"dropdown-item text-primary\" href=\"page21.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa gag</a><a class=\"dropdown-item text-primary\" href=\"page30.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa par</a><a class=\"dropdown-item text-primary\" href=\"page36.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">cocina toledo</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>compartir</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"https://api.whatsapp.com/send?phone=525554135690&text=Hola,%20podremos%20hacer%20una%20cita%20para%20platicar?\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>whatsapp</a></div></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"tel:+1-234-567-8901\" data-app-placeholder=\"Type Text\">\n                    <span class=\"btn-icon mbri-mobile mbr-iconfont mbr-iconfont-btn\" data-app-selector=\".mbr-iconfont-btn\">\n                    </span>\n                    +1-234-567-8901\n                </a></div>\n        </div>\n    </nav>\n</section>",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global not-draggable once=\"menu\" position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"4.3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#333333\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#a1a1a1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{\n        'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent\n        }\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/001-30-px.svg\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.co\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,\n                'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>\n                        inicio</a>\n                </li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page10.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>proyectos</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page13.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">ampliación oficinas digrans</a><a class=\"dropdown-item text-primary\" href=\"page14.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aum</a><a class=\"dropdown-item text-primary\" href=\"page15.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loef</a><a class=\"dropdown-item text-primary\" href=\"page22.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">jugos del valle</a><a class=\"dropdown-item text-primary\" href=\"page4.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa cst</a><a class=\"dropdown-item text-primary\" href=\"page3.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa garza sada</a><a class=\"dropdown-item text-primary\" href=\"page37.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">spread</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page7.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>casas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page8.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa alv</a><a class=\"dropdown-item text-primary\" href=\"page38.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rtl</a><a class=\"dropdown-item text-primary\" href=\"page9.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa hir</a><a class=\"dropdown-item text-primary\" href=\"page17.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa aeg</a><a class=\"dropdown-item text-primary\" href=\"page26.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 1</a><a class=\"dropdown-item text-primary\" href=\"page29.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa rsf 2</a><a class=\"dropdown-item text-primary\" href=\"page35.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa ttv</a><a class=\"dropdown-item text-primary\" href=\"page31.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">monclova 35</a></div></li>\n                <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page11.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>oficinas</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page28.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 1</a><a class=\"dropdown-item text-primary\" href=\"page16.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">vct&amp;dg 2</a><a class=\"dropdown-item text-primary\" href=\"page19.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">dcm</a><a class=\"dropdown-item text-primary\" href=\"page24.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">grupo alc</a><a class=\"dropdown-item text-primary\" href=\"page27.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">digrans 2</a><a class=\"dropdown-item text-primary\" href=\"page20.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 1</a><a class=\"dropdown-item text-primary\" href=\"page34.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">fao 2</a><a class=\"dropdown-item text-primary\" href=\"page32.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">reserva gourmet</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-update mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>remodelaciones</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"page18.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa trt</a><a class=\"dropdown-item text-primary\" href=\"page23.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa loz</a><a class=\"dropdown-item text-primary\" href=\"page25.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 1</a><a class=\"dropdown-item text-primary\" href=\"page33.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">campos eliseos 2</a><a class=\"dropdown-item text-primary\" href=\"page21.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa gag</a><a class=\"dropdown-item text-primary\" href=\"page30.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">casa par</a><a class=\"dropdown-item text-primary\" href=\"page36.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">cocina toledo</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-primary\" href=\"page12.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>compartir</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-primary\" href=\"https://api.whatsapp.com/send?phone=525554135690&text=Hola,%20podremos%20hacer%20una%20cita%20para%20platicar?\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(161, 161, 161);\"></span>whatsapp</a></div></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"tel:+1-234-567-8901\" data-app-placeholder=\"Type Text\">\n                    <span class=\"btn-icon mbri-mobile mbr-iconfont mbr-iconfont-btn\" data-app-selector=\".mbr-iconfont-btn\">\n                    </span>\n                    +1-234-567-8901\n                </a></div>\n        </div>\n    </nav>\n</section>",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "s6CWCekhsT",
