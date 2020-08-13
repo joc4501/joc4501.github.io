@@ -27264,26 +27264,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/rtp-1-1800x1358.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/rtp-1-1800x1358-800x450.jpeg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Escribir subtítulo aquí",
-                "active": false
-              },
-              {
-                "tags": "Animada",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/rtp-4-1800x1345.jpeg",
                 "thumb": "@PROJECT_PATH@/assets/images/rtp-4-1800x1345-800x450.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animada",
@@ -27335,7 +27322,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animada",
@@ -27461,19 +27448,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/rtp-21-2000x896.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rtp-21-2000x896-800x358.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Escribir subtítulo aquí",
-                "active": false
-              },
-              {
-                "tags": "Animada",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/eur-12-1800x1348.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/eur-12-1800x1348-800x599.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
